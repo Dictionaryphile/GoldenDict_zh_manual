@@ -1,4 +1,4 @@
-最后更新：2018年1月30日
+# GoldenDict 中文用户手册
 
 ## 说明：
 - 由 [ducidian](http://mp.weixin.qq.com/s/b5RqP64xBr8Wcgd-Rg1Wfg) 创作，带有个人色(pian)彩(jian)。
@@ -64,7 +64,7 @@
      - 如果你的操作系统是 64 位的（内存大于 4G），建议选用文件名里带 64bit 的安装包。
 
 - 常见问题：**GoldenDict CPU 占用高**
-    - 解决办法：**关闭**全文搜索索引。
+    - 解决办法：**关闭** 全文搜索索引。
     - 【编辑】->【首选项】->【全文搜索】->【允许对以下格式词典进行全文搜索】，把相应的 √ 去掉。
     - “全文搜索”是个大杀器，建议尝试一下。
 
@@ -97,8 +97,7 @@
 
 ### dsl
 - [lingvodics.com](http://lingvodics.com/main)
-
-上面是一个索引站点，指向 ru-board 的发布贴，需要注册帐号方可查看。
+    - 这是一个索引站点，指向 ru-board 的发布贴，需要注册帐号方可查看。
 
 ## 在线词典
 - [GoldenDict 添加在线词典](http://pdawiki.com/forum/thread-14077-1-1.html)
@@ -193,38 +192,4 @@ Python、PHP 等均可。
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-There are no more guides. You are now guideless. Good luck.  
 -EOF-
