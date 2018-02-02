@@ -1,7 +1,7 @@
 # GoldenDict 中文用户手册
 
 ## 说明：
-- 由 [ducidian](http://mp.weixin.qq.com/s/b5RqP64xBr8Wcgd-Rg1Wfg) 创作，带有个人色(pian)彩(jian)。
+- 由 [Dictionaryphile](http://mp.weixin.qq.com/s/b5RqP64xBr8Wcgd-Rg1Wfg) 创作，带有个人色(pian)彩(jian)。
 - 亲民的 GoldenDict 中文用户手册，汇总相关链接，解决常见问题。
 - [GoldenDict 官方网站](http://goldendict.org/) （多年未更新）
 - [GoldenDict @GitHub](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Windows) （请到这里下载最新版，pull requests 、贡献想法或代码）
@@ -89,7 +89,7 @@
 
 ## 支持的词典格式
 支持几乎所有开源词典格式，详见 [Supported Dictionary Formats](https://github.com/goldendict/goldendict/wiki/Supported-Dictionary-Formats)，不过目前有新作的仅剩 mdx、dsl 格式词典了。
-###mdx/mdd
+### mdx/mdd
 - [PDAWIKI 掌上百科 Mdict资料库](http://pdawiki.com/forum/forum-4-1.html)
 - [PDAWIKI 掌上百科编纂处 作品展示](http://t.cn/RYocNu9)
 
