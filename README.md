@@ -1,5 +1,7 @@
 # GoldenDict 中文用户手册
 
+最后更新：2018年2月8日
+[GitHub](https://github.com/Dictionaryphile/GoldenDict_zh_manual)
 ## 说明：
 - 由 [Dictionaryphile](http://mp.weixin.qq.com/s/b5RqP64xBr8Wcgd-Rg1Wfg) 创作，带有个人色(pian)彩(jian)。
 - 亲民的 GoldenDict 中文用户手册，汇总相关链接，解决常见问题。
@@ -19,6 +21,7 @@
 - 部分词典有版权问题，我的做法是，购买一份乃至多份相应纸版（OED2 纸版我还没买）。
 
 ## 吊 OR 倒胃口
+- [悬赏 1 万分求个 GoldenDict 截图](https://pdawiki.com/forum/thread-23051-1-1.html)
 - [2017-01-15] [不用 GoldenDict 的 10 个理由](http://mp.weixin.qq.com/s/HzZZhyyHMb0DpQ4AYOLzlA)
 - [2017-01-21] [GoldenDict 全文搜索几例](http://mp.weixin.qq.com/s/gHMJrVG_bmGw142fEEtNeQ)
 - [GoldenDict 在 macOS 下的表现](http://www.pdawiki.com/forum/thread-14068-1-1.html)
@@ -47,13 +50,14 @@
 - [必应词典](https://cn.bing.com/dict)：Windows、Android、iOS
 - [ABBYY Lingvo](https://www.abbyy.com/lingvo_dictionary/)：Windows、macOS、Android、iOS
 - [Babylon](http://www.babylon-software.com/)：Windows
+- [Logophile](http://dicwizard.jp/logophile/): Windows、macOS
 - ……
 
 ## 常见问题及解决办法
 - [官方 FAQ](http://goldendict.org/wiki/index.php/FAQ) {This page was last modified on 17 November 2010, at 06:49.}
 
 - [GoldenDict 的下载、安装、使用(Windows 版教程)](https://www.jianshu.com/p/e124979c887a)
-    - https://pan.baidu.com/s/1hs8IIMw （下载自 GitHub，未做任何修改，有顾虑者请自行到[原始链接](https://github.com/goldendict/goldendict/wiki)下载）
+    - [百度网盘分流](https://pan.baidu.com/s/1smAReFz) （下载自 GitHub，未做任何修改，链接如失效或对文件安全性有顾虑者请自行到[原始链接](https://github.com/goldendict/goldendict/wiki)下载）
 - [GoldenDict 可以替代的软件](http://www.pdawiki.com/forum/thread-14070-1-1.html)
 
 - 常见问题：[官网](http://goldendict.org/)下载、安装的 Windows 版本，**不支持** mdx/mdd
@@ -89,7 +93,7 @@
 
 ## 支持的词典格式
 支持几乎所有开源词典格式，详见 [Supported Dictionary Formats](https://github.com/goldendict/goldendict/wiki/Supported-Dictionary-Formats)，不过目前有新作的仅剩 mdx、dsl 格式词典了。
-### mdx/mdd
+###mdx/mdd
 - [PDAWIKI 掌上百科 Mdict资料库](http://pdawiki.com/forum/forum-4-1.html)
 - [PDAWIKI 掌上百科编纂处 作品展示](http://t.cn/RYocNu9)
 
@@ -188,7 +192,7 @@ Python、PHP 等均可。
 
 
 ## 参考
-- [宇宙最全在线词典网站导航](https://www.jianshu.com/p/4ee53b93ac25)
+- [宇宙最全在线词典网站导航](https://github.com/Dictionaryphile/All_Dictionaries)
 
 
 
