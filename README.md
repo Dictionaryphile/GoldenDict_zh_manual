@@ -76,7 +76,7 @@
 
 ## 支持的词典格式
 支持几乎所有开源词典格式，详见 [Supported Dictionary Formats](https://github.com/goldendict/goldendict/wiki/Supported-Dictionary-Formats)，不过目前有新作的仅剩 mdx、dsl 格式词典了。
-###mdx/mdd
+### mdx/mdd
 - [PDAWIKI 掌上百科 Mdict资料库](http://pdawiki.com/forum/forum-4-1.html)
 - [PDAWIKI 掌上百科编纂处 作品展示](http://t.cn/RYocNu9)
 
@@ -120,7 +120,7 @@ Ctrl + Shift + F
 
 ### article-style.css
 个性定制，需要有一定的 HTML、CSS 知识。
-- []()
+- [GoldenDict如何建立article-style.css并设置字体？[动图示例]](https://pdawiki.com/forum/thread-23016-1-1.html)
 - [示例](https://gist.github.com/Tvangeste/4663204)
 - [GoldenDict 界面显示风格、字体、背景等等的修改](http://pdawiki.com/forum/thread-14082-1-1.html)
 - [如何查看 GoldenDict 下某部词典的 ID ？](http://pdawiki.com/forum/thread-21902-1-1.html)
@@ -200,5 +200,5 @@ Python、PHP 等均可。
 
 -EOF-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTE0NDg1MjBdfQ==
+eyJoaXN0b3J5IjpbNzk2Mzk3MjkwXX0=
 -->
