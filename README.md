@@ -18,9 +18,6 @@
 - [悬赏 1 万分求个 GoldenDict 截图](https://pdawiki.com/forum/thread-23051-1-1.html)
 - [2017-01-15] [不用 GoldenDict 的 10 个理由](http://mp.weixin.qq.com/s/HzZZhyyHMb0DpQ4AYOLzlA)
 - [2017-01-21] [GoldenDict 全文搜索几例](http://mp.weixin.qq.com/s/gHMJrVG_bmGw142fEEtNeQ)
-- [GoldenDict 在 macOS 下的表现](http://www.pdawiki.com/forum/thread-14068-1-1.html)
-- [GoldenDict 在 Linux 下的表现](http://www.pdawiki.com/forum/thread-14068-1-1.html)
-- [GoldenDict 在 Windows 下的表现](http://www.pdawiki.com/forum/thread-14069-1-1.html)
 
 ## 软件下载地址
 - [最新 Windows 版本 20171210@GitHub](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Windows)
@@ -203,5 +200,5 @@ GoldenDict 本质可以看作一个小浏览器，很多快捷键和浏览器是
 
 -EOF-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTQ0MzkxMDhdfQ==
+eyJoaXN0b3J5IjpbMTE1NzkzMjc2MF19
 -->
