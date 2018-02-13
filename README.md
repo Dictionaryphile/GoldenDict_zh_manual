@@ -97,6 +97,8 @@
 ### 查询面板
 - [GD 技巧之 CTRL+S [ 切换 Search Pane 显示](http://pdawiki.com/forum/thread-15214-1-1.html)
 
+### 历史记录
+- [99999 条::GoldenDict 支持最大历史记录天空才是极限](https://pdawiki.com/forum/thread-23092-1-1.html)
 
 ### 词头搜索
 #### 通配符
@@ -105,10 +107,10 @@
 - [GoldenDict 查看并导出词库所有词头](http://www.pdawiki.com/forum/thread-16514-1-1.html)
 
 ### 页内搜索
-Ctrl + F
+快捷键：Ctrl + F
 
 ## 全文搜索
-Ctrl + Shift + F
+快捷键：Ctrl + Shift + F
 - [GoldenDict 全文搜索模式](http://pdawiki.com/forum/thread-22234-1-1.html)
 
 ## 屏幕取词
@@ -200,5 +202,5 @@ Python、PHP 等均可。
 
 -EOF-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk2Mzk3MjkwXX0=
+eyJoaXN0b3J5IjpbLTEzNzI3MjUzN119
 -->
