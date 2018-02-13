@@ -156,11 +156,12 @@ Python、PHP 等均可。
 - [goldendict词典制作的一点思路【调用外部程序】](http://pdawiki.com/forum/thread-21852-1-1.html)
 
 ## 快捷键
+GoldenDict 本质可以看作一个小浏览器，很多快捷键和浏览器是一样的，比如 Ctrl + T 新建标签，Ctrl + W 关闭当前标签。
 - [GoldenDict 快捷键](http://pdawiki.com/forum/thread-22377-1-1.html) 
 - Esc 查询一个词后，按下 Esc ，继续输入词。
 - Ctrl + L
 - Ctrl + C + C 调出取词窗口，查询系统剪贴板里的内容。
-- F1
+- F1 帮助
 - Ctrl + M
 - Ctrl + S
 
@@ -205,5 +206,5 @@ Python、PHP 等均可。
 
 -EOF-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUyNzMxMTg1XX0=
+eyJoaXN0b3J5IjpbMTUyMzc4MTE0Ml19
 -->
