@@ -167,7 +167,7 @@ GoldenDict 本质可以看作一个小浏览器，很多快捷键和浏览器是
 
 ## 一些概念
 - 词典（Dictionaries）：mdx、dsl、bgl 等格式的词库
-- 群组（Group(s)）
+- 群组（Group(s)），GoldenDict 词典组可单独设置图标、快捷键
 - 启用、禁用
 - 激活
 - 图标（icon）：GoldenDict 词典、群组等均可设置图标
@@ -178,7 +178,7 @@ GoldenDict 本质可以看作一个小浏览器，很多快捷键和浏览器是
 - 历史（history）
 - 便携版（portable）
 - 构词法规则库（morphology）
-- 中文转换
+- 中文转换，可以输入简体词头，查询繁体词典
 
 ## GoldenDict 的竞争者、替代品（alternatives）
 - [MDict：mdx 老祖宗](http://mdict.cn/) ： Windows、Android、iOS
@@ -206,5 +206,5 @@ GoldenDict 本质可以看作一个小浏览器，很多快捷键和浏览器是
 
 -EOF-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NTE0MTI2OV19
+eyJoaXN0b3J5IjpbLTk3NzQxMDI3MV19
 -->
