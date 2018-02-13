@@ -1,6 +1,7 @@
 # GoldenDict 中文用户手册
 
 本文最后更新：2018-02-13。
+GoldenDict，一款尤其适用于计算机端（Windows、macOS、Linux）的开源、自由、可定制的词典软件。严肃的语言学习者、文字工作者，都应该至少尝试一下 GoldenDict。
 
 ## 说明：
 - 由 [Dictionaryphile](http://mp.weixin.qq.com/s/b5RqP64xBr8Wcgd-Rg1Wfg) 创作，带有个人色(pian)彩(jian)。
@@ -12,7 +13,7 @@
 ## 提醒
 - 计算机硬件配置（CPU、内存、硬盘等）极大影响 GoldenDict 体验，强烈建议使用固态硬盘。
 - GoldenDict 类似文本编辑器里的 Vim，操作系统里的 Linux ，需要一定时间的学习和调教。
-- 如果你是一位严肃的语言学习者、文字工作者、polyglot，桌面端 GoldenDict 可以说是不二选择，如果只是单纯想快速取词查义，\*道、\*霸、\*应、\*路以及[在线网络词典](https://github.com/Dictionaryphile/All_Dictionaries)、搜索引擎等可能是更好的选择。
+- 如果只是单纯想快速取词查义，\*道、\*霸、\*应、\*路以及[在线网络词典](https://github.com/Dictionaryphile/All_Dictionaries)、搜索引擎等可能是更好的选择。
 
 ## 吊 OR 倒胃口
 - [悬赏 1 万分求个 GoldenDict 截图](https://pdawiki.com/forum/thread-23051-1-1.html)
@@ -203,5 +204,5 @@ GoldenDict 本质可以看作一个小浏览器，很多快捷键和浏览器是
 
 -EOF-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEwNjYzMjUxXX0=
+eyJoaXN0b3J5IjpbLTIwNzYzMjA5NDNdfQ==
 -->
