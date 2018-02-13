@@ -162,8 +162,8 @@ GoldenDict 本质可以看作一个小浏览器，很多快捷键和浏览器是
 - Ctrl + L
 - Ctrl + C + C 调出取词窗口，查询系统剪贴板里的内容。
 - F1 帮助
-- Ctrl + M
-- Ctrl + S
+- Ctrl + M 切换显示或隐藏菜单栏（Menubar）
+- Ctrl + S 切换显示或隐藏搜索面板（Search Pane）
 
 ## 一些概念
 - 词典（Dictionaries）：mdx、dsl、bgl 等格式的词库
@@ -206,5 +206,5 @@ GoldenDict 本质可以看作一个小浏览器，很多快捷键和浏览器是
 
 -EOF-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMzc4MTE0Ml19
+eyJoaXN0b3J5IjpbMTM1NTE0MTI2OV19
 -->
