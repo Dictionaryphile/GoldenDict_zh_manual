@@ -135,9 +135,9 @@
 ### config 文件
 一个没有后缀的文本文件，可用文本编辑器打开、编辑，本质是 xml 。
 你甚至可以自行编辑这个文件，对 GoldenDict 进行配置。
-[例子](https://pdawiki.com/forum/forum.php?mod=redirect&goto=findpost&ptid=23092&pid=586492)
+[例子](https://pdawiki.com/forum/forum.php?mod=redirect&goto=findpost&ptid=23092&pid=586492) ：修改最大历史记录数为 99999999。
 
-    enter code here
+    <maxStringsInHistory>99999999</maxStringsInHistory>
 
 ### favorites 文件
 一个没有后缀的文本文件，可用文本编辑器打开、编辑，本质是 xml 。
@@ -156,7 +156,7 @@ Python、PHP 等均可。
 - [goldendict词典制作的一点思路【调用外部程序】](http://pdawiki.com/forum/thread-21852-1-1.html)
 
 ## 快捷键
-- [GoldenDict 快捷键](http://pdawiki.com/forum/thread-22377-1-1.html)
+- [GoldenDict 快捷键](http://pdawiki.com/forum/thread-22377-1-1.html) 
 - Esc 查询一个词后，按下 Esc ，继续输入词。
 - Ctrl + L
 - Ctrl + C + C 调出取词窗口，查询系统剪贴板里的内容。
@@ -205,5 +205,5 @@ Python、PHP 等均可。
 
 -EOF-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExODMzMDc5Ml19
+eyJoaXN0b3J5IjpbODUyNzMxMTg1XX0=
 -->
