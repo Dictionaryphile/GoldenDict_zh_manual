@@ -109,7 +109,7 @@ GoldenDict，一款尤其适用于计算机端（Windows、macOS、Linux）的�
 - [GoldenDict+Autohotkey-> 高亮即取词[Windows]](http://pdawiki.com/forum/thread-14017-1-1.html)
 
 ## 配置文件夹
-【帮助】->【配置文件夹】
+依次点击【帮助】->【配置文件夹】，自动就蹦出文件资源管理器窗口（macOS 蹦出 Finder 窗口），定位到了配置文件夹。如果新建过，“配置文件夹”就是 portable 文件夹。!
 
 ### article-style.css
 个性定制，需要有一定的 HTML、CSS 知识。
@@ -203,5 +203,5 @@ GoldenDict 本质可以看作一个小浏览器，很多快捷键和浏览器是
 
 -EOF-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE1NjYzNzAxXX0=
+eyJoaXN0b3J5IjpbMTY0NTY4NDM2MV19
 -->
