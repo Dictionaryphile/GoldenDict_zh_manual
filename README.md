@@ -46,20 +46,19 @@ GoldenDict，一款尤其适用于计算机端（Windows、macOS、Linux）的�
     -  选择菜单栏【编辑】->【首选项】->【全文搜索】->【允许对以下格式词典进行全文搜索】，把相应的 √ 去掉。
     - “全文搜索”是个大杀器，建议尝试一下。
 
-- 常见问题：[GoldenDict 安卓版](http://goldendict.mobi/) ，收费，但是国内不能在 [Google Play](https://play.google.com/store/apps/details?id=mobi.goldendict.android) 购买，且安卓版不支持 mdx/mdd
-    - 解决办法：这个我没有相关经验，我个人主要在桌面端查词典，手机端很少用。
+- **常见问题**：[GoldenDict 安卓版](http://goldendict.mobi/) ，收费，但是国内不能在 [Google Play](https://play.google.com/store/apps/details?id=mobi.goldendict.android) 购买，且安卓版不支持 mdx/mdd
+    - **解决办法**：这个我没有相关经验，我个人主要在桌面端查词典，手机端很少用。
     - [安卓版 Goldendict 支持 .mdx .mdd 的方法 (经验)](http://pdawiki.com/forum/thread-13437-1-1.html)
 
-- 常见问题：GoldenDict 没有 iOS 版
-    - 解决办法：无解，慢慢等吧。
+- **常见问题**：GoldenDict 没有 iOS 版
+    - **解决办法**：无解，慢慢等吧。
     - [GoldenDict Android (安卓系统) 官网链接下载](http://pdawiki.com/forum/thread-22252-1-1.html)
 
-- 常见问题：GoldenDict 词典发音
-     - 解决办法：只需要加载含音频（或可联网发音）的 mdx/mdd 即可，不需要去设置“音频文件目录”
+- **常见问题**：GoldenDict 词典发音
+     - **解决办法**：只需要加载含音频（或可联网发音）的 mdx/mdd 即可，不需要去设置“音频文件目录”
 
-- 常见问题：词典音标乱码、字体有问题
+- **常见问题**：词典音标乱码、字体有问题
      - 解决办法：这个问题一般是使用了老旧的系统、词库，建议更新自己的操作系统，尝试使用较新的词库。
-
 
 
 ## GoldenDict 帮助
@@ -203,5 +202,5 @@ GoldenDict 本质可以看作一个小浏览器，很多快捷键和浏览器是
 
 -EOF-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MTkzOTk2MF19
+eyJoaXN0b3J5IjpbMTYyODA4MTAyXX0=
 -->
