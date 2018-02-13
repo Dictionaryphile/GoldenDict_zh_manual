@@ -1,12 +1,12 @@
 # GoldenDict 中文用户手册
 
-最后更新：2018年2月8日
-[GitHub](https://github.com/Dictionaryphile/GoldenDict_zh_manual)
+本文最后更新：2018-02-13。
+
 ## 说明：
 - 由 [Dictionaryphile](http://mp.weixin.qq.com/s/b5RqP64xBr8Wcgd-Rg1Wfg) 创作，带有个人色(pian)彩(jian)。
 - 亲民的 GoldenDict 中文用户手册，汇总相关链接，解决常见问题。
 - [GoldenDict 官方网站](http://goldendict.org/) （多年未更新）
-- [GoldenDict @GitHub](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Windows) （请到这里下载最新版，pull requests 、贡献想法或代码）
+- [GoldenDict @GitHub](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Windows) （请到这里下载最新版）
 - [也可以到这里学习、交流、提问、讨论、分享](http://t.cn/RTLNWti)
 - 感谢 GoldenDict 、各类词典贡献者。
 - 本文只介绍、探讨 GoldenDict 使用，没有任何词典分享链接。
@@ -17,7 +17,7 @@
 ## 提醒
 - 计算机硬件配置（CPU、内存、硬盘等）极大影响 GoldenDict 体验，强烈建议使用固态硬盘。
 - GoldenDict 类似文本编辑器里的 Vim，操作系统里的 Linux ，需要一定时间的学习和调教。
-- 如果你是一位严肃的语言学习者、文字工作者、polyglot，桌面端 GoldenDict 可以说是不二选择，如果只是单纯想快速取词查义，\*道、\*霸、\*应、\*路以及[在线网络词典](https://www.jianshu.com/p/4ee53b93ac25)、搜索引擎等可能是更好的选择。
+- 如果你是一位严肃的语言学习者、文字工作者、polyglot，桌面端 GoldenDict 可以说是不二选择，如果只是单纯想快速取词查义，\*道、\*霸、\*应、\*路以及[在线网络词典](https://github.com/Dictionaryphile/All_Dictionaries)、搜索引擎等可能是更好的选择。
 - 部分词典有版权问题，我的做法是，购买一份乃至多份相应纸版（OED2 纸版我还没买）。
 
 ## 吊 OR 倒胃口
@@ -198,5 +198,5 @@ Python、PHP 等均可。
 
 -EOF-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NzU4MDkxMl19
+eyJoaXN0b3J5IjpbLTExOTYwMTQ4ODJdfQ==
 -->
