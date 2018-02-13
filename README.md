@@ -24,7 +24,7 @@ GoldenDict，一款尤其适用于计算机端（Windows、macOS、Linux）的�
 - [最新 Windows 版本 20171210@GitHub](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Windows)
 - [最新 macOS 版本 20171210@GitHub](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Mac-OS-X)
 - 最新 Linux 版本，可参考 [GoldenDict @GitHub](https://github.com/goldendict/goldendict) 自行 build 。
-- [GoldenDict Android](http://goldendict.mobi/) ，收费，国内付费、安装困难，暂**不支持** mdx/mdd 格式词库，但ew支持 lsd、ld2 格式。
+- [GoldenDict Android](http://goldendict.mobi/) ，收费，国内付费、安装困难，暂**不支持** mdx/mdd 格式词库，但额外支持 lsd、ld2 格式。
 - GoldenDict **暂无** iOS 版。
 
 
@@ -204,5 +204,5 @@ GoldenDict 本质可以看作一个小浏览器，很多快捷键和浏览器是
 
 -EOF-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNDEzMDYzMl19
+eyJoaXN0b3J5IjpbLTEzMzY3Njc0ODddfQ==
 -->
