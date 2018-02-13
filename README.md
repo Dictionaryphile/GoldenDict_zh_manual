@@ -4,7 +4,7 @@
 
 ## 说明：
 - 由 [Dictionaryphile](http://mp.weixin.qq.com/s/b5RqP64xBr8Wcgd-Rg1Wfg) 创作，带有个人色(pian)彩(jian)。
-- 本文只介绍、探讨 GoldenDict 使用，没有任何词典分享链接。
+- 本文只介绍 GoldenDict 使用，没有任何词典分享链接。
 - 部分链接无法打开的话，请尝试科学上网。
 - 请耐心一点。
 - 以上及以下每个字符都是广告。
@@ -196,9 +196,12 @@ GoldenDict 本质可以看作一个小浏览器，很多快捷键和浏览器是
 - [GoldenDict 官方网站](http://goldendict.org/) （多年未更新）
 - [GoldenDict @GitHub](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Windows) （请到这里下载最新版）
 - [也可以到这里学习、交流、提问、讨论、分享](http://t.cn/RTLNWti)
+- [GoldenDict 在 macOS 下的表现](http://www.pdawiki.com/forum/thread-14068-1-1.html)
+- [GoldenDict 在 Linux 下的表现](http://www.pdawiki.com/forum/thread-14068-1-1.html)
+- [GoldenDict 在 Windows 下的表现](http://www.pdawiki.com/forum/thread-14069-1-1.html)
 - 感谢 GoldenDict 、各类词典贡献者。
 
 -EOF-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NzkzMjc2MF19
+eyJoaXN0b3J5IjpbNzEwNjYzMjUxXX0=
 -->
