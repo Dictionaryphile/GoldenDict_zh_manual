@@ -33,7 +33,7 @@ GoldenDict，一款尤其适用于计算机端（Windows、macOS、Linux）的�
 - [GoldenDict 的下载、安装、使用(Windows 版教程)](https://www.pdawiki.com/forum/thread-14072-1-1.html)
     - [GoldenDict 安装文件百度网盘分流](https://pan.baidu.com/s/1smAReFz) （下载自 GitHub，未做任何修改，链接如失效或对文件安全性有顾虑者请自行到[原始链接](https://github.com/goldendict/goldendict/wiki)下载）
 - [GoldenDict 可以替代的软件](http://www.pdawiki.com/forum/thread-14070-1-1.html)
-
+---
 - 常见问题：[官网](http://goldendict.org/)下载、安装的 Windows 版本，**不支持** mdx/mdd
     - 解决办法：去 [GitHub](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Windows) 下载最新编译版
 
@@ -203,5 +203,5 @@ GoldenDict 本质可以看作一个小浏览器，很多快捷键和浏览器是
 
 -EOF-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NDI5NDkxN119
+eyJoaXN0b3J5IjpbNDU3MTgzOTUwXX0=
 -->
