@@ -34,16 +34,16 @@ GoldenDict，一款尤其适用于计算机端（Windows、macOS、Linux）的�
     - [GoldenDict 安装文件百度网盘分流](https://pan.baidu.com/s/1smAReFz) （下载自 GitHub，未做任何修改，链接如失效或对文件安全性有顾虑者请自行到[原始链接](https://github.com/goldendict/goldendict/wiki)下载）
 - [GoldenDict 可以替代的软件](http://www.pdawiki.com/forum/thread-14070-1-1.html)
 ---
-- 常见问题：[官网](http://goldendict.org/)下载、安装的 Windows 版本，**不支持** mdx/mdd
-    - 解决办法：去 [GitHub](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Windows) 下载最新编译版
+- **常见问题**：[官网](http://goldendict.org/)下载、安装的 Windows 版本，**不支持** mdx/mdd
+    - **解决办法**：去 [GitHub](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Windows) 下载最新编译版
 
-- 常见问题：可下载的安装文件好几个，QT5、QT4、64bit 等是什么意思？
+- **常见问题**：可下载的安装文件好几个，QT5、QT4、64bit 等是什么意思？
      - QT 是应用程序开发框架，参考[百度百科](https://baike.baidu.com/item/qt/451743)，Microsoft Word 有 2003、2007……2016，QT 也有 QT4、QT5，版本号不同；
      - 如果你的操作系统是 64 位的（内存大于 4G），建议选用文件名里带 64bit 的安装包。
 
-- 常见问题：**GoldenDict CPU 占用高**
-    - 解决办法：**关闭** 全文搜索索引。
-    - 【编辑】->【首选项】->【全文搜索】->【允许对以下格式词典进行全文搜索】，把相应的 √ 去掉。
+- **常见问题**：**GoldenDict CPU 占用高**
+    - **解决办法**：**关闭** 全文搜索索引。
+    -  选择菜单栏【编辑】->【首选项】->【全文搜索】->【允许对以下格式词典进行全文搜索】，把相应的 √ 去掉。
     - “全文搜索”是个大杀器，建议尝试一下。
 
 - 常见问题：[GoldenDict 安卓版](http://goldendict.mobi/) ，收费，但是国内不能在 [Google Play](https://play.google.com/store/apps/details?id=mobi.goldendict.android) 购买，且安卓版不支持 mdx/mdd
@@ -203,5 +203,5 @@ GoldenDict 本质可以看作一个小浏览器，很多快捷键和浏览器是
 
 -EOF-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU3MTgzOTUwXX0=
+eyJoaXN0b3J5IjpbMTU0MTkzOTk2MF19
 -->
