@@ -35,23 +35,6 @@
 - [GoldenDict Android](http://goldendict.mobi/) ，收费，国内付费、安装困难，暂不支持 mdx 格式词库。
 - GoldenDict **暂无** iOS 版。
 
-## GoldenDict 的竞争者、替代品（alternatives）
-- [MDict：mdx 老祖宗](http://mdict.cn/) ： Windows、Android、iOS
-- [深蓝词典 \(BlueDict\)：mdx](http://ssdlsoft.com/bluedict/)：Android
-- [EBDic：EPWING、mdx、StarDict](http://t.cn/RY14MLP)：Android
-- [EB series：EPWING](http://ebstudio.info/) : iOS、Android、macOS、Windows [mdx] 适合日语学习者
-- [Dictionary](https://en.wikipedia.org/wiki/Dictionary_(software))：[☞ [2017-03-14] macOS / iOS 内置版权词典名录](http://mp.weixin.qq.com/s/CPpAtIf4C5woao_CiMErXQ)
-- [☞ [2017-03-15] Kindle（曾）内置版权词典名录](http://mp.weixin.qq.com/s/Ggve-W0ac1vDFKrRZKmCug)
-- [搜狗词典](http://fanyi.sogou.com/)
-- [海词词典](http://cidian.dict.cn/center.html)
-- [欧路词典](https://www.eudic.net/)：macOS、Windows、Android、iOS
-- [有道词典](http://dict.youdao.com/)：Windows、Android、iOS、macOS
-- [金山词霸](http://www.iciba.com/)：Windows、Android、iOS
-- [必应词典](https://cn.bing.com/dict)：Windows、Android、iOS
-- [ABBYY Lingvo](https://www.abbyy.com/lingvo_dictionary/)：Windows、macOS、Android、iOS
-- [Babylon](http://www.babylon-software.com/)：Windows
-- [Logophile](http://dicwizard.jp/logophile/): Windows、macOS
-- ……
 
 ## 常见问题及解决办法
 - [官方 FAQ](http://goldendict.org/wiki/index.php/FAQ) {This page was last modified on 17 November 2010, at 06:49.}
@@ -190,6 +173,24 @@ Python、PHP 等均可。
 - 构词法规则库（morphology）
 - 中文转换
 
+## GoldenDict 的竞争者、替代品（alternatives）
+- [MDict：mdx 老祖宗](http://mdict.cn/) ： Windows、Android、iOS
+- [深蓝词典 \(BlueDict\)：mdx](http://ssdlsoft.com/bluedict/)：Android
+- [EBDic：EPWING、mdx、StarDict](http://t.cn/RY14MLP)：Android
+- [EB series：EPWING](http://ebstudio.info/) : iOS、Android、macOS、Windows [mdx] 适合日语学习者
+- [Dictionary](https://en.wikipedia.org/wiki/Dictionary_(software))：[☞ [2017-03-14] macOS / iOS 内置版权词典名录](http://mp.weixin.qq.com/s/CPpAtIf4C5woao_CiMErXQ)
+- [☞ [2017-03-15] Kindle（曾）内置版权词典名录](http://mp.weixin.qq.com/s/Ggve-W0ac1vDFKrRZKmCug)
+- [搜狗词典](http://fanyi.sogou.com/)
+- [海词词典](http://cidian.dict.cn/center.html)
+- [欧路词典](https://www.eudic.net/)：macOS、Windows、Android、iOS
+- [有道词典](http://dict.youdao.com/)：Windows、Android、iOS、macOS
+- [金山词霸](http://www.iciba.com/)：Windows、Android、iOS
+- [必应词典](https://cn.bing.com/dict)：Windows、Android、iOS
+- [ABBYY Lingvo](https://www.abbyy.com/lingvo_dictionary/)：Windows、macOS、Android、iOS
+- [Babylon](http://www.babylon-software.com/)：Windows
+- [Logophile](http://dicwizard.jp/logophile/): Windows、macOS
+- ……
+
 
 ## 参考
 - [宇宙最全在线词典网站导航](https://github.com/Dictionaryphile/All_Dictionaries)
@@ -198,5 +199,5 @@ Python、PHP 等均可。
 
 -EOF-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTYwMTQ4ODJdfQ==
+eyJoaXN0b3J5IjpbMzU1NDgzNjMyXX0=
 -->
