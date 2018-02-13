@@ -39,7 +39,7 @@
 ## 常见问题及解决办法
 - [官方 FAQ](http://goldendict.org/wiki/index.php/FAQ) {This page was last modified on 17 November 2010, at 06:49.}
 
-- [GoldenDict 的下载、安装、使用(Windows 版教程)](https://www.jianshu.com/p/e124979c887a)
+- [GoldenDict 的下载、安装、使用(Windows 版教程)](https://www.pdawiki.com/forum/thread-14072-1-1.html)
     - [百度网盘分流](https://pan.baidu.com/s/1smAReFz) （下载自 GitHub，未做任何修改，链接如失效或对文件安全性有顾虑者请自行到[原始链接](https://github.com/goldendict/goldendict/wiki)下载）
 - [GoldenDict 可以替代的软件](http://www.pdawiki.com/forum/thread-14070-1-1.html)
 
@@ -199,5 +199,5 @@ Python、PHP 等均可。
 
 -EOF-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU1NDgzNjMyXX0=
+eyJoaXN0b3J5IjpbMTIzNjc1MzIwNF19
 -->
