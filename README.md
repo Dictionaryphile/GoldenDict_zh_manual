@@ -118,7 +118,7 @@
 - [GoldenDict+Autohotkey-> 高亮即取词[Windows]](http://pdawiki.com/forum/thread-14017-1-1.html)
 
 ## 配置文件夹
-【帮助】->【配置文件夹(C)】
+【帮助】->【配置文件夹】
 
 ### article-style.css
 个性定制，需要有一定的 HTML、CSS 知识。
@@ -135,6 +135,9 @@
 ### config 文件
 一个没有后缀的文本文件，可用文本编辑器打开、编辑，本质是 xml 。
 你甚至可以自行编辑这个文件，对 GoldenDict 进行配置。
+[例子](https://pdawiki.com/forum/forum.php?mod=redirect&goto=findpost&ptid=23092&pid=586492)
+
+    enter code here
 
 ### favorites 文件
 一个没有后缀的文本文件，可用文本编辑器打开、编辑，本质是 xml 。
@@ -202,5 +205,5 @@ Python、PHP 等均可。
 
 -EOF-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzI3MjUzN119
+eyJoaXN0b3J5IjpbMjExODMzMDc5Ml19
 -->
