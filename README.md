@@ -1,7 +1,7 @@
 # GoldenDict 中文用户手册
 
 本文最后更新：2018-02-13。
-GoldenDict，一款尤其适用于计算机端（Windows、macOS、Linux）的开源、自由、可定制的词典软件。严肃的语言学习者、文字工作者，都应该至少尝试一下 GoldenDict。
+GoldenDict，一款尤其适用于计算机端（Windows、macOS、Linux）的开源、自由、可定制的词典软件。严肃的语言学习者、文字工作者乃至词典编纂者，都应该至少尝试一下 GoldenDict。
 
 ## 说明：
 - 由 [Dictionaryphile](http://mp.weixin.qq.com/s/b5RqP64xBr8Wcgd-Rg1Wfg) 创作，带有个人色(pian)彩(jian)。
@@ -24,7 +24,7 @@ GoldenDict，一款尤其适用于计算机端（Windows、macOS、Linux）的�
 - [最新 Windows 版本 20171210@GitHub](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Windows)
 - [最新 macOS 版本 20171210@GitHub](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Mac-OS-X)
 - 最新 Linux 版本，可参考 [GoldenDict @GitHub](https://github.com/goldendict/goldendict) 自行 build 。
-- [GoldenDict Android](http://goldendict.mobi/) ，收费，国内付费、安装困难，暂不支持 mdx 格式词库。
+- [GoldenDict Android](http://goldendict.mobi/) ，收费，国内付费、安装困难，暂**不支持** mdx/mdd 格式词库，但ew支持 lsd、ld2 格式。
 - GoldenDict **暂无** iOS 版。
 
 
@@ -204,5 +204,5 @@ GoldenDict 本质可以看作一个小浏览器，很多快捷键和浏览器是
 
 -EOF-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzYzMjA5NDNdfQ==
+eyJoaXN0b3J5IjpbMTMwNDEzMDYzMl19
 -->
