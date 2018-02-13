@@ -116,14 +116,14 @@ GoldenDict，一款尤其适用于计算机端（Windows、macOS、Linux）的�
 ### article-style.css
 个性定制，需要有一定的 HTML、CSS 知识。
 - [GoldenDict如何建立article-style.css并设置字体？[动图示例]](https://pdawiki.com/forum/thread-23016-1-1.html)
-- [示例](https://gist.github.com/Tvangeste/4663204)
+- [示例 @ GitHub](https://gist.github.com/Tvangeste/4663204)
 - [GoldenDict 界面显示风格、字体、背景等等的修改](http://pdawiki.com/forum/thread-14082-1-1.html)
 - [如何查看 GoldenDict 下某部词典的 ID ？](http://pdawiki.com/forum/thread-21902-1-1.html)
 - [如何为某部词典指定字体？](http://pdawiki.com/forum/thread-15900-1-1.html)
 
 ### qt-style.css
 个性定制，需要有一定的 HTML、CSS 知识。
-- [示例](https://gist.github.com/Tvangeste/4574234)
+- [示例 @ GitHub](https://gist.github.com/Tvangeste/4574234)
 
 ### config 文件
 一个没有后缀的文本文件，可用文本编辑器打开、编辑，本质是 xml 。
@@ -205,5 +205,5 @@ GoldenDict 本质可以看作一个小浏览器，很多快捷键和浏览器是
 
 -EOF-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NDY5ODUyOF19
+eyJoaXN0b3J5IjpbNzMzMjA1MjQ2XX0=
 -->
