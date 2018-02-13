@@ -64,8 +64,9 @@ GoldenDict，一款尤其适用于计算机端（Windows、macOS、Linux）的�
 ## GoldenDict 帮助
 按下快捷键 F1，或“菜单栏”【帮助】->【GoldenDict 帮助】，可打开 GoldenDict manual 。本文下面的内容，实际上可以看作 GoldenDict manual 的补充。
 
-## 支持的词典格式
+## GoldenDict 支持的词典格式
 支持几乎所有开源词典格式，详见 [Supported Dictionary Formats](https://github.com/goldendict/goldendict/wiki/Supported-Dictionary-Formats)，不过目前有新作的仅剩 mdx、dsl 格式词典了。
+
 ### mdx/mdd
 - [PDAWIKI 掌上百科 Mdict资料库](http://pdawiki.com/forum/forum-4-1.html)
 - [PDAWIKI 掌上百科编纂处 作品展示](http://t.cn/RYocNu9)
@@ -76,7 +77,7 @@ GoldenDict，一款尤其适用于计算机端（Windows、macOS、Linux）的�
 - [lingvodics.com](http://lingvodics.com/main)
     - 这是一个索引站点，指向 ru-board 的发布贴，需要注册帐号方可查看。
 
-## 在线词典
+### 在线词典
 - [GoldenDict 添加在线词典](http://pdawiki.com/forum/thread-14077-1-1.html)
 - [为GoldenDict添加在线有道翻译](https://www.pdawiki.com/forum/thread-13924-1-1.html)
 
@@ -99,7 +100,7 @@ GoldenDict，一款尤其适用于计算机端（Windows、macOS、Linux）的�
 ### 页内搜索
 快捷键：Ctrl + F
 
-## 全文搜索
+### 全文搜索
 快捷键：Ctrl + Shift + F
 - [GoldenDict 全文搜索模式](http://pdawiki.com/forum/thread-22234-1-1.html)
 
@@ -202,5 +203,5 @@ GoldenDict 本质可以看作一个小浏览器，很多快捷键和浏览器是
 
 -EOF-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyODA4MTAyXX0=
+eyJoaXN0b3J5IjpbODE1NjYzNzAxXX0=
 -->
