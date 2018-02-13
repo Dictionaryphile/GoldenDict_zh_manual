@@ -194,10 +194,10 @@ Python、PHP 等均可。
 
 ## 参考
 - [宇宙最全在线词典网站导航](https://github.com/Dictionaryphile/All_Dictionaries)
-
+- [goldendict.el:Query word at point or region selected with goldendict.](https://github.com/stardiviner/goldendict.el)
 
 
 -EOF-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNjc1MzIwNF19
+eyJoaXN0b3J5IjpbLTEyMDY4MTgyNDBdfQ==
 -->
