@@ -1,6 +1,6 @@
 # GoldenDict 中文用户手册
 
-本文最后更新：2018-02-13。  
+本文最后更新：2020-12-10。  
 
 GoldenDict，一款尤其适用于计算机端（Windows、macOS、Linux）的开源、自由、可定制的词典软件。严肃的语言学习者、文字工作者乃至词典编纂者，都应该**至少尝试**一下 GoldenDict。  
 
@@ -24,7 +24,7 @@ GoldenDict，一款尤其适用于计算机端（Windows、macOS、Linux）的�
 ## 软件下载地址
 - [最新 Windows 版本 20171210@GitHub](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Windows)
 - [最新 macOS 版本 20171210@GitHub](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Mac-OS-X)
-- 最新 Linux 版本，可参考 [GoldenDict @GitHub](https://github.com/goldendict/goldendict) 自行 build 。
+- [最新 Linux 版本 @Github](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Linux-Portable)
 - [GoldenDict Android](http://goldendict.mobi/) ，收费，国内付费、安装困难，暂**不支持** mdx/mdd 格式词库，但额外支持 lsd、ld2 格式。
 - GoldenDict **暂无** iOS 版。
 
